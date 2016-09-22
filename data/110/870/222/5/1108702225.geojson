@@ -1,0 +1,76 @@
+{
+  "id": 1108702225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.2493638,53.342681,-6.2493638,53.342681",
+    "geom:latitude":53.342681,
+    "geom:longitude":-6.249364,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Westland Square Pearse Street",
+    "sg:city":"Dublin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2",
+    "sg:tags":[
+        "content-management",
+        "consulting",
+        "ireland"
+    ],
+    "sg:website":"http://www.strata3.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794167,
+        102191581,
+        85633241,
+        101751737,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AzVXOiXhUErAianbZYcen_53.342681_-6.249364@1308163242"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570853,
+    "wof:geomhash":"9b88c281bb4af1201dccdd9e782415ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794167,
+            "region_id":85685015,
+            "venue_id":1108702225
+        }
+    ],
+    "wof:id":1108702225,
+    "wof:lastmodified":1474570853,
+    "wof:name":"Strata3",
+    "wof:parent_id":85794167,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "content-management",
+        "consulting",
+        "ireland"
+    ]
+},
+  "bbox": [
+    -6.2493638,
+    53.342681,
+    -6.2493638,
+    53.342681
+],
+  "geometry": {"coordinates":[-6.2493638,53.342681],"type":"Point"}
+}

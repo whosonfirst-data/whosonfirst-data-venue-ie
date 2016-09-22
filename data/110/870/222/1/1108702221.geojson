@@ -1,0 +1,76 @@
+{
+  "id": 1108702221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.2442701,53.3335225,-6.2442701,53.3335225",
+    "geom:latitude":53.333523,
+    "geom:longitude":-6.24427,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"13 Upper Baggot Street Second Floor",
+    "sg:city":"Dublin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"D2",
+    "sg:tags":[
+        "holiday-rentals",
+        "french-riviera",
+        "french-villas"
+    ],
+    "sg:website":"http://www.rivierarentalguide.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794167,
+        102191581,
+        85633241,
+        101751737,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oTXUbtngYYTef3PLRJjUv_53.333523_-6.244270@1308163242"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570853,
+    "wof:geomhash":"a22065a67a2b197e36ed1863f09b3b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794167,
+            "region_id":85685015,
+            "venue_id":1108702221
+        }
+    ],
+    "wof:id":1108702221,
+    "wof:lastmodified":1474570853,
+    "wof:name":"Riviera Rental Guide",
+    "wof:parent_id":85794167,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "holiday-rentals",
+        "french-riviera",
+        "french-villas"
+    ]
+},
+  "bbox": [
+    -6.2442701,
+    53.3335225,
+    -6.2442701,
+    53.3335225
+],
+  "geometry": {"coordinates":[-6.2442701,53.3335225],"type":"Point"}
+}

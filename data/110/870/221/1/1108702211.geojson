@@ -1,0 +1,74 @@
+{
+  "id": 1108702211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.4225868,53.2933633,-6.4225868,53.2933633",
+    "geom:latitude":53.293363,
+    "geom:longitude":-6.422587,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"3015 Lake Drive Citywest Business Campus",
+    "sg:city":"Citywest",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"D 24",
+    "sg:tags":[
+        "saas-in-the-fast-lane",
+        "saas"
+    ],
+    "sg:website":"http://www.saasplex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794395,
+        102191581,
+        85633241,
+        101751737,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ta9Pb1dU7y08WiYRME0aA_53.293363_-6.422587@1308163240"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570852,
+    "wof:geomhash":"08947b2f9bd553253c24cde89ee87591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794395,
+            "region_id":85685015,
+            "venue_id":1108702211
+        }
+    ],
+    "wof:id":1108702211,
+    "wof:lastmodified":1474570852,
+    "wof:name":"SaaSPlex",
+    "wof:parent_id":85794395,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saas-in-the-fast-lane",
+        "saas"
+    ]
+},
+  "bbox": [
+    -6.4225868,
+    53.2933633,
+    -6.4225868,
+    53.2933633
+],
+  "geometry": {"coordinates":[-6.4225868,53.2933633],"type":"Point"}
+}

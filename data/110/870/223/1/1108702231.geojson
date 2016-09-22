@@ -1,0 +1,63 @@
+{
+  "id": 1108702231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.215271,53.274549,-6.215271,53.274549",
+    "geom:latitude":53.274549,
+    "geom:longitude":-6.215271,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"78 Furze Road  Unit 3",
+    "sg:city":"Dublin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"6",
+    "sg:website":"http://www.bluedog.net/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633241,
+        85794379,
+        85685001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XHpdNIEap0TMiWaYyQdPL_53.274549_-6.215271@1308163238"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570853,
+    "wof:geomhash":"ea83801ce3546eacb5c6ee8902fb3528",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "neighbourhood_id":85794379,
+            "region_id":85685001,
+            "venue_id":1108702231
+        }
+    ],
+    "wof:id":1108702231,
+    "wof:lastmodified":1474570853,
+    "wof:name":"Bluedog",
+    "wof:parent_id":85794379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.215271,
+    53.274549,
+    -6.215271,
+    53.274549
+],
+  "geometry": {"coordinates":[-6.215271,53.274549],"type":"Point"}
+}

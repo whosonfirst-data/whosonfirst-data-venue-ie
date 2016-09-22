@@ -1,0 +1,93 @@
+{
+  "id": 1108702207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.2644783,53.342689,-6.2644783,53.342689",
+    "geom:latitude":53.342689,
+    "geom:longitude":-6.264478,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"93 Upper Georges Street",
+    "sg:city":"Dun Laoghaire",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"Dublin",
+    "sg:tags":[
+        "hotels",
+        "hotel-reservations",
+        "online-booking",
+        "hotels-in-dublin",
+        "hotels-in-london",
+        "hotels-worldwide",
+        "european-hotels"
+    ],
+    "sg:website":"http://www.centralreservations.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794361,
+        102191581,
+        85633241,
+        101751737,
+        85685015,
+        85794367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zgUHAXWYn8DEvYSEMEF3M_53.342689_-6.264478@1308163240"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570852,
+    "wof:geomhash":"b843682117c56b8d1631943c44a4f94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794361,
+            "region_id":85685015,
+            "venue_id":1108702207
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794367,
+            "region_id":85685015,
+            "venue_id":1108702207
+        }
+    ],
+    "wof:id":1108702207,
+    "wof:lastmodified":1474570852,
+    "wof:name":"Central Reservations",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "hotel-reservations",
+        "online-booking",
+        "hotels-in-dublin",
+        "hotels-in-london",
+        "hotels-worldwide",
+        "european-hotels"
+    ]
+},
+  "bbox": [
+    -6.2644783,
+    53.342689,
+    -6.2644783,
+    53.342689
+],
+  "geometry": {"coordinates":[-6.2644783,53.342689],"type":"Point"}
+}

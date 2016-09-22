@@ -1,0 +1,82 @@
+{
+  "id": 1108702253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.25028,53.341837,-6.25028,53.341837",
+    "geom:latitude":53.341837,
+    "geom:longitude":-6.25028,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Merrion St",
+    "sg:city":"Dublin ",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2",
+    "sg:tags":[
+        "ruby",
+        "ruby-on-rails",
+        "exception-tracker",
+        "contrast",
+        "web2ireland",
+        "qwitter"
+    ],
+    "sg:website":"http://www.contrast.ie",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794167,
+        102191581,
+        85633241,
+        101751737,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DNMSktYmJRWi3pcnnu2HN_53.341837_-6.250280@1308163239"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570854,
+    "wof:geomhash":"5b303f9437e57a8d53d4dfb52089bd2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794167,
+            "region_id":85685015,
+            "venue_id":1108702253
+        }
+    ],
+    "wof:id":1108702253,
+    "wof:lastmodified":1474570854,
+    "wof:name":"Contrast.",
+    "wof:parent_id":85794167,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ruby",
+        "ruby-on-rails",
+        "exception-tracker",
+        "contrast",
+        "web2ireland",
+        "qwitter"
+    ]
+},
+  "bbox": [
+    -6.25028,
+    53.341837,
+    -6.25028,
+    53.341837
+],
+  "geometry": {"coordinates":[-6.25028,53.341837],"type":"Point"}
+}

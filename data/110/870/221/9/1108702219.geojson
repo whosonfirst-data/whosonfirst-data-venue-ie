@@ -1,0 +1,78 @@
+{
+  "id": 1108702219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.250684,53.34202,-6.250684,53.34202",
+    "geom:latitude":53.34202,
+    "geom:longitude":-6.250684,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Lincoln Place",
+    "sg:city":"Dublin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2",
+    "sg:tags":[
+        "web2ireland",
+        "voice",
+        "voiceservices",
+        "voice2-0"
+    ],
+    "sg:website":"http://www.dial2do.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794167,
+        102191581,
+        85633241,
+        101751737,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DYJWZtGMwWZMCcQXKG3Zh_53.342020_-6.250684@1308163237"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570853,
+    "wof:geomhash":"9cd5aa0d044f9c07c50b3c486b3ae46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794167,
+            "region_id":85685015,
+            "venue_id":1108702219
+        }
+    ],
+    "wof:id":1108702219,
+    "wof:lastmodified":1474570853,
+    "wof:name":"Dial2Do",
+    "wof:parent_id":85794167,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web2ireland",
+        "voice",
+        "voiceservices",
+        "voice2-0"
+    ]
+},
+  "bbox": [
+    -6.250684,
+    53.34202,
+    -6.250684,
+    53.34202
+],
+  "geometry": {"coordinates":[-6.250684,53.34202],"type":"Point"}
+}

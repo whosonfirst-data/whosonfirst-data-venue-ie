@@ -1,0 +1,82 @@
+{
+  "id": 1108702187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.256999,53.357448,-6.256999,53.357448",
+    "geom:latitude":53.357448,
+    "geom:longitude":-6.256999,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 Mountjoy Square",
+    "sg:city":"Dublin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1",
+    "sg:tags":[
+        "mobile-social-networking",
+        "chip",
+        "software",
+        "semiconductor",
+        "video-processor",
+        "video-processing"
+    ],
+    "sg:website":"http://www.movidius.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794265,
+        102191581,
+        85633241,
+        101751737,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VHKNTTXok8ZWpmokIi4NY_53.357448_-6.256999@1308163239"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570851,
+    "wof:geomhash":"e1648558d84818dec850d4a52a1befd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794265,
+            "region_id":85685015,
+            "venue_id":1108702187
+        }
+    ],
+    "wof:id":1108702187,
+    "wof:lastmodified":1474570851,
+    "wof:name":"Movidius",
+    "wof:parent_id":85794265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile-social-networking",
+        "chip",
+        "software",
+        "semiconductor",
+        "video-processor",
+        "video-processing"
+    ]
+},
+  "bbox": [
+    -6.256999,
+    53.357448,
+    -6.256999,
+    53.357448
+],
+  "geometry": {"coordinates":[-6.256999,53.357448],"type":"Point"}
+}

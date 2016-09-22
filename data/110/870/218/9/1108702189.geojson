@@ -1,0 +1,76 @@
+{
+  "id": 1108702189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.368902,53.304431,-6.368902,53.304431",
+    "geom:latitude":53.304431,
+    "geom:longitude":-6.368902,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"South County Business Park Leopardstown",
+    "sg:city":"Dublin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"18",
+    "sg:tags":[
+        "web2ireland",
+        "changingworlds",
+        "amdocs"
+    ],
+    "sg:website":"http://www.changingworlds.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794395,
+        102191581,
+        85633241,
+        101751737,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78K3Wf3wKGs5RZBrjxqgcH_53.304431_-6.368902@1308163239"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570851,
+    "wof:geomhash":"fd4eae62adc178abe3b94f25b2f70501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794395,
+            "region_id":85685015,
+            "venue_id":1108702189
+        }
+    ],
+    "wof:id":1108702189,
+    "wof:lastmodified":1474570851,
+    "wof:name":"Changingworlds",
+    "wof:parent_id":85794395,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web2ireland",
+        "changingworlds",
+        "amdocs"
+    ]
+},
+  "bbox": [
+    -6.368902,
+    53.304431,
+    -6.368902,
+    53.304431
+],
+  "geometry": {"coordinates":[-6.368902,53.304431],"type":"Point"}
+}

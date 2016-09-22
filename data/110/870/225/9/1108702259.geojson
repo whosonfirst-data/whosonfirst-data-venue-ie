@@ -1,0 +1,92 @@
+{
+  "id": 1108702259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.2975122,53.3619711,-6.2975122,53.3619711",
+    "geom:latitude":53.361971,
+    "geom:longitude":-6.297512,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"1st floor. block F smithfield market",
+    "sg:city":"dublin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"7",
+    "sg:tags":[
+        "web2ireland",
+        "animation",
+        "3d",
+        "cgi",
+        "stereoscopic",
+        "script-writing",
+        "development",
+        "ireland",
+        "co-production",
+        "tax-incentives",
+        "production"
+    ],
+    "sg:website":"http://www.brownbagfilms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794207,
+        102191581,
+        85633241,
+        101751737,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Hpl0V1DbVUc4NVeGBtlJd_53.361971_-6.297512@1308163242"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570854,
+    "wof:geomhash":"5e46223103c500f6d2fb29803afc0246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794207,
+            "region_id":85685015,
+            "venue_id":1108702259
+        }
+    ],
+    "wof:id":1108702259,
+    "wof:lastmodified":1474570854,
+    "wof:name":"brown bag films",
+    "wof:parent_id":85794207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web2ireland",
+        "animation",
+        "3d",
+        "cgi",
+        "stereoscopic",
+        "script-writing",
+        "development",
+        "ireland",
+        "co-production",
+        "tax-incentives",
+        "production"
+    ]
+},
+  "bbox": [
+    -6.2975122,
+    53.3619711,
+    -6.2975122,
+    53.3619711
+],
+  "geometry": {"coordinates":[-6.2975122,53.3619711],"type":"Point"}
+}

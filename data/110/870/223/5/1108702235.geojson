@@ -1,0 +1,82 @@
+{
+  "id": 1108702235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.1071512,53.2781561,-6.1071512,53.2781561",
+    "geom:latitude":53.278156,
+    "geom:longitude":-6.107151,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Castle Terrace Malahide",
+    "sg:city":"Dublin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"EIRE",
+    "sg:tags":[
+        "web2ireland",
+        "time-tracking",
+        "timesheets",
+        "project",
+        "employee",
+        "project-management",
+        "software"
+    ],
+    "sg:website":"http://1timetracking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794245,
+        85633241,
+        101751737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h2p0h6VeHOzBJ6z5U85Dx_53.278156_-6.107151@1308163238"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570853,
+    "wof:geomhash":"8e4080fd0ae304c4947cf4704a6b5b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794245,
+            "region_id":-1,
+            "venue_id":1108702235
+        }
+    ],
+    "wof:id":1108702235,
+    "wof:lastmodified":1474570853,
+    "wof:name":"Time Warden",
+    "wof:parent_id":85794245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web2ireland",
+        "time-tracking",
+        "timesheets",
+        "project",
+        "employee",
+        "project-management",
+        "software"
+    ]
+},
+  "bbox": [
+    -6.1071512,
+    53.2781561,
+    -6.1071512,
+    53.2781561
+],
+  "geometry": {"coordinates":[-6.1071512,53.2781561],"type":"Point"}
+}

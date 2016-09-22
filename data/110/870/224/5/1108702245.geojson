@@ -1,0 +1,65 @@
+{
+  "id": 1108702245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-8.4806856,54.2706906,-8.4806856,54.2706906",
+    "geom:latitude":54.270691,
+    "geom:longitude":-8.480686,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ballinode Co. Sligo",
+    "sg:city":"Sligo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"00",
+    "sg:tags":[
+        "widgets",
+        "widget",
+        "web2ireland",
+        "ecommerce",
+        "shopping"
+    ],
+    "sg:website":"http://www.nooked.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CySpfKQJoHndUhQJG4abU_54.270691_-8.480686@1308163238"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570854,
+    "wof:geomhash":"f790ac94857cdd68fab44f37361f189a",
+    "wof:hierarchy":[],
+    "wof:id":1108702245,
+    "wof:lastmodified":1474570854,
+    "wof:name":"nooked",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "widgets",
+        "widget",
+        "web2ireland",
+        "ecommerce",
+        "shopping"
+    ]
+},
+  "bbox": [
+    -8.4806856,
+    54.2706906,
+    -8.4806856,
+    54.2706906
+],
+  "geometry": {"coordinates":[-8.4806856,54.2706906],"type":"Point"}
+}

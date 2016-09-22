@@ -1,0 +1,65 @@
+{
+  "id": 1108702227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.343828,32.077623,-98.343828,32.077623",
+    "geom:latitude":32.077623,
+    "geom:longitude":-98.343828,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Latin Hall Golden Lane",
+    "sg:city":"Dublin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"Dublin 8",
+    "sg:tags":[
+        "web2ireland",
+        "daft",
+        "property",
+        "ireland",
+        "dublin"
+    ],
+    "sg:website":"http://www.daft.ie",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_520ggGckeFHWG7vcki8Ubx_32.077623_-98.343828@1308163241"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570853,
+    "wof:geomhash":"3b783f977376dcb316c40b7ba3dc0be4",
+    "wof:hierarchy":[],
+    "wof:id":1108702227,
+    "wof:lastmodified":1474570853,
+    "wof:name":"Daft.ie",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web2ireland",
+        "daft",
+        "property",
+        "ireland",
+        "dublin"
+    ]
+},
+  "bbox": [
+    -98.343828,
+    32.077623,
+    -98.343828,
+    32.077623
+],
+  "geometry": {"coordinates":[-98.343828,32.077623],"type":"Point"}
+}

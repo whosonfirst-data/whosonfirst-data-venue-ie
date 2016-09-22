@@ -1,0 +1,80 @@
+{
+  "id": 1108702247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.239955,53.338093,-6.239955,53.338093",
+    "geom:latitude":53.338093,
+    "geom:longitude":-6.239955,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Clanwilliam Terrace,",
+    "sg:city":"Dublin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"D2",
+    "sg:tags":[
+        "voip",
+        "phone",
+        "telephony",
+        "ireland",
+        "tech"
+    ],
+    "sg:website":"http://www.blueface.ie",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794367,
+        102191581,
+        85633241,
+        101751737,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pPndvnJHXYY0e0wyA2G7V_53.338093_-6.239955@1308163238"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570854,
+    "wof:geomhash":"2dca3e6e4f029c195109234a6fdc98b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794367,
+            "region_id":85685015,
+            "venue_id":1108702247
+        }
+    ],
+    "wof:id":1108702247,
+    "wof:lastmodified":1474570854,
+    "wof:name":"Blueface",
+    "wof:parent_id":85794367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "voip",
+        "phone",
+        "telephony",
+        "ireland",
+        "tech"
+    ]
+},
+  "bbox": [
+    -6.239955,
+    53.338093,
+    -6.239955,
+    53.338093
+],
+  "geometry": {"coordinates":[-6.239955,53.338093],"type":"Point"}
+}

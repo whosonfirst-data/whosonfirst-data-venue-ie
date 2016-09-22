@@ -1,0 +1,88 @@
+{
+  "id": 1108702181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.250848,53.339347,-6.250848,53.339347",
+    "geom:latitude":53.339347,
+    "geom:longitude":-6.250848,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"78 Merrion Square",
+    "sg:city":"Dublin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"Dublin2",
+    "sg:tags":[
+        "mobile-solutions",
+        "mobile-data",
+        "data-synchronisation",
+        "mobile-security",
+        "backup",
+        "restore",
+        "mobile-contacts",
+        "web-2.0-addressbook",
+        "phonebackup"
+    ],
+    "sg:website":"http://www.simchronise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794167,
+        102191581,
+        85633241,
+        101751737,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dnWbWIg8hX3VyfUKIDRz9_53.339347_-6.250848@1308163237"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570851,
+    "wof:geomhash":"a20cd0717af5ce53ff840e2491785643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794167,
+            "region_id":85685015,
+            "venue_id":1108702181
+        }
+    ],
+    "wof:id":1108702181,
+    "wof:lastmodified":1474570851,
+    "wof:name":"SIMchronise",
+    "wof:parent_id":85794167,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile-solutions",
+        "mobile-data",
+        "data-synchronisation",
+        "mobile-security",
+        "backup",
+        "restore",
+        "mobile-contacts",
+        "web-2.0-addressbook",
+        "phonebackup"
+    ]
+},
+  "bbox": [
+    -6.250848,
+    53.339347,
+    -6.250848,
+    53.339347
+],
+  "geometry": {"coordinates":[-6.250848,53.339347],"type":"Point"}
+}

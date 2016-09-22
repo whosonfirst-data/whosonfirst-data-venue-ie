@@ -1,0 +1,92 @@
+{
+  "id": 1108702203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.3122021,53.3632377,-6.3122021,53.3632377",
+    "geom:latitude":53.363238,
+    "geom:longitude":-6.312202,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Agtel 22 Upper Fitzwilliam Street",
+    "sg:city":"Dublin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"Dublin 2",
+    "sg:tags":[
+        "video",
+        "video-production",
+        "corporate-video",
+        "ireland",
+        "multimedia",
+        "web-tv",
+        "television",
+        "film",
+        "commercial",
+        "museum",
+        "exhibition"
+    ],
+    "sg:website":"http://www.agtel.ie",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794207,
+        102191581,
+        85633241,
+        101751737,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qs61qM3EhebyMvS4BCOtp_53.363238_-6.312202@1308163239"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570852,
+    "wof:geomhash":"2ec13e10ac7d13e2804fd740e0300495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794207,
+            "region_id":85685015,
+            "venue_id":1108702203
+        }
+    ],
+    "wof:id":1108702203,
+    "wof:lastmodified":1474570852,
+    "wof:name":"Agtel",
+    "wof:parent_id":85794207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "video-production",
+        "corporate-video",
+        "ireland",
+        "multimedia",
+        "web-tv",
+        "television",
+        "film",
+        "commercial",
+        "museum",
+        "exhibition"
+    ]
+},
+  "bbox": [
+    -6.3122021,
+    53.3632377,
+    -6.3122021,
+    53.3632377
+],
+  "geometry": {"coordinates":[-6.3122021,53.3632377],"type":"Point"}
+}

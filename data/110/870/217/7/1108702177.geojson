@@ -1,0 +1,86 @@
+{
+  "id": 1108702177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.422587,53.293363,-6.422587,53.293363",
+    "geom:latitude":53.293363,
+    "geom:longitude":-6.422587,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lake Drive City West Digital Park",
+    "sg:city":"Dublin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"3050",
+    "sg:tags":[
+        "mobile",
+        "vas",
+        "community",
+        "social-networking",
+        "connected-devices",
+        "android",
+        "tablets",
+        "smartphones"
+    ],
+    "sg:website":"http://www.buongiorno.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794395,
+        102191581,
+        85633241,
+        101751737,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41u80gC4971D4Gc0Fv1p8q_53.293363_-6.422587@1308163237"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570851,
+    "wof:geomhash":"7f696329e5db7cb6be0ef84881a83972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794395,
+            "region_id":85685015,
+            "venue_id":1108702177
+        }
+    ],
+    "wof:id":1108702177,
+    "wof:lastmodified":1474570851,
+    "wof:name":"Buongiorno",
+    "wof:parent_id":85794395,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "vas",
+        "community",
+        "social-networking",
+        "connected-devices",
+        "android",
+        "tablets",
+        "smartphones"
+    ]
+},
+  "bbox": [
+    -6.422587,
+    53.293363,
+    -6.422587,
+    53.293363
+],
+  "geometry": {"coordinates":[-6.422587,53.293363],"type":"Point"}
+}

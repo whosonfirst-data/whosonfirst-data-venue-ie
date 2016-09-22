@@ -1,0 +1,67 @@
+{
+  "id": 1108702223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.2518914,53.3370743,-6.2518914,53.3370743",
+    "geom:latitude":53.337074,
+    "geom:longitude":-6.251891,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Building 13 Parkwest Business Park",
+    "sg:city":"Nangor Road",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"Dublin 12",
+    "sg:website":"http://www.equiendo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794167,
+        102191581,
+        85633241,
+        101751737,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CIqaZR9a6Hld2V0HP5vje_53.337074_-6.251891@1308163242"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570853,
+    "wof:geomhash":"db4d46cdb520c486ee669e1d9a961218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794167,
+            "region_id":85685015,
+            "venue_id":1108702223
+        }
+    ],
+    "wof:id":1108702223,
+    "wof:lastmodified":1474570853,
+    "wof:name":"Equiendo",
+    "wof:parent_id":85794167,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2518914,
+    53.3370743,
+    -6.2518914,
+    53.3370743
+],
+  "geometry": {"coordinates":[-6.2518914,53.3370743],"type":"Point"}
+}

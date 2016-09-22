@@ -1,0 +1,82 @@
+{
+  "id": 1108702183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.32868,53.337935,-6.32868,53.337935",
+    "geom:latitude":53.337935,
+    "geom:longitude":-6.32868,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tyrconnell Park, Inchicore",
+    "sg:city":"Dublin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"00008",
+    "sg:tags":[
+        "accounting",
+        "finance",
+        "bookkeeping",
+        "small-business",
+        "extranet",
+        "accounts"
+    ],
+    "sg:website":"http://www.yendo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794341,
+        102191581,
+        85633241,
+        101751737,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XvdAcBRmGM654kUdads7f_53.337935_-6.328680@1308163237"
+    },
+    "wof:country":"IE",
+    "wof:created":1474570851,
+    "wof:geomhash":"2d2b57a0f9b71151188c2e711c02e1b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794341,
+            "region_id":85685015,
+            "venue_id":1108702183
+        }
+    ],
+    "wof:id":1108702183,
+    "wof:lastmodified":1474570851,
+    "wof:name":"Yendo",
+    "wof:parent_id":85794341,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accounting",
+        "finance",
+        "bookkeeping",
+        "small-business",
+        "extranet",
+        "accounts"
+    ]
+},
+  "bbox": [
+    -6.32868,
+    53.337935,
+    -6.32868,
+    53.337935
+],
+  "geometry": {"coordinates":[-6.32868,53.337935],"type":"Point"}
+}
