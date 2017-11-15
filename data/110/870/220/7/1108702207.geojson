@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-6.2644783,53.342689,-6.2644783,53.342689",
     "geom:latitude":53.342689,
     "geom:longitude":-6.264478,
@@ -33,12 +34,12 @@
     "sg:website":"http://www.centralreservations.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794361,
+        85794367,
         102191581,
         85633241,
         101751737,
         85685015,
-        85794367
+        85794361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +53,7 @@
             "continent_id":102191581,
             "country_id":85633241,
             "locality_id":101751737,
-            "neighbourhood_id":85794361,
+            "neighbourhood_id":85794367,
             "region_id":85685015,
             "venue_id":1108702207
         },
@@ -60,15 +61,15 @@
             "continent_id":102191581,
             "country_id":85633241,
             "locality_id":101751737,
-            "neighbourhood_id":85794367,
+            "neighbourhood_id":85794361,
             "region_id":85685015,
             "venue_id":1108702207
         }
     ],
     "wof:id":1108702207,
-    "wof:lastmodified":1474570852,
+    "wof:lastmodified":1491935649,
     "wof:name":"Central Reservations",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-ie",
     "wof:superseded_by":[],
